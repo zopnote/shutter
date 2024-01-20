@@ -1,1 +1,5 @@
 *.dart linguist-language=Dart
+*.java linguist-language=Java
+*.kt linguist-language=Kotlin
+*.cpp linguist-language=C++
+*.objc linguist-language=Objective-C
