@@ -1,4 +1,3 @@
-## ![shutter](https://github.com/Zopnote/shutter/assets/126571884/435f0cc7-b7df-415b-ac0c-c0e65047dc25)
 
 
 
